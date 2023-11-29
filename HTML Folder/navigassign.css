@@ -1,0 +1,15 @@
+.nav{
+    border: 2px solid black;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+.child{
+    border: 2px solid blueviolet;
+    height: 75px;
+    width: 300px;
+}
+ul{
+    list-style: none;
+}
